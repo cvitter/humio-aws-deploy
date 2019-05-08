@@ -1,6 +1,6 @@
 # Deploying Humio to AWS
 
-
+<img align="right" src="humio-logo-2.png" width="214px" />
 
 # Questions, Feedback, Pull Requests Etc.
 
