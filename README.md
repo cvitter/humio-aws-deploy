@@ -9,7 +9,9 @@ In order to install Humio using the material in this repository you will need th
 * An [Amazon Web Services account](https://aws.amazon.com)
 * An [AWS Access Key](https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html)
 * [Terraform](https://learn.hashicorp.com/terraform/getting-started/install.html)
+* Python
 * [Ansible](https://docs.ansible.com/ansible/2.5/installation_guide/intro_installation.html)
+* [Boto3](https://github.com/boto/boto3)
 
 
 # Questions, Feedback, Pull Requests Etc.
