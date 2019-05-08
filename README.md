@@ -11,6 +11,9 @@ If you have any questions, feedback, suggestions, etc. please submit them via Is
 # License
 The content in this repository is Open Source material released under the Apache 2.0 License. Please see the [LICENSE](LICENSE) file for full license details.
 
+# Disclaimer
+The code in this repository is not sponsored or supported by Humio.
+
 # Authors
 * Author: [Craig Vitter](https://github.com/cvitter)
 
